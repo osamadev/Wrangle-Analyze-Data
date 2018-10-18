@@ -1,7 +1,7 @@
 # Warngle and Analyze Data
 In this project, we will wrangle and analyze data collected from a twitter account for rating dogs called "WeRateDogs". The data includes a text of the tweets on that twitter account in addition to other attributes such as "Id" of the tweet, the time stamp, retweet status...etc. Also there are some other fields have been extracted from the tweets text such as the rating of each dog, its name, and the stage (doggo, floofer, pupper, or puppo).
 
-# Gathering Data
+## Gathering Data
 This step is our first step in the data wrangling process. In this step, we gather the required data from different sources, mainly we have three sources as follows:
 
 -  The excel file provided by Udacity and I have downloaded right away from the link on the project description page.
