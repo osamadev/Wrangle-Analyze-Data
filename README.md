@@ -44,7 +44,7 @@ In "tweets_df" dataframe:, we have the following quality issues:
 
 -  Drop unwanted columns, then re-order the desired remaining columns in more logical sense to be more readable.
 
-## analyzing, and visualizing the wrangled data
+## Analyzing and Visualizing the Wrangled Data
 **we can conclude the following insights about the dataset:**
 
 -  The total number of observations in the dataset is 1993 rows.
